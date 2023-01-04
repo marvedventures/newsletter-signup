@@ -1,6 +1,6 @@
-# React Native (Meta) Capstone Project
+# Newsletter Signup 
 
-This is a capstone project to the React Native Course by Meta.
+This is a React Native Expo Project with React Navigation.
 
 ## Table of contents
 
