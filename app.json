@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "littleLemon",
+    "owner": "marventures",
     "slug": "littleLemon",
     "description": "Newsletter Signup with React Navigation",
     "owner": "marvedventures",
